@@ -59,7 +59,7 @@ o4w_env
 6. Type the following command to install Dask:
 
 ```
->> python3 -m pip install dask -U --user
+>> python3 -m pip install dask==2024.1.1 -U --user
 ```
 
 If you are using **QGIS 3.18 or lower**:
