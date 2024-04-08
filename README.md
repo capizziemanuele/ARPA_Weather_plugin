@@ -92,7 +92,7 @@ py3_env
 6. Type the following command to install Dask:
 
 ```
->> python -m pip install dask
+>> python -m pip install dask==2024.1.1
 ```
 
 ### Linux and MacOS
