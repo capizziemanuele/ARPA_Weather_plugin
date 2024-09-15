@@ -8,6 +8,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![GitHub all releases](https://img.shields.io/github/downloads/gisgeolab/ARPA_Weather_plugin/total) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/gisgeolab/ARPA_Weather_plugin)
 
+> ⚠️ Data from previous years is no longer available in .CSV format. The plugin can only retrieve data for the current year.
+
 The ARPA Weather Sensors Plugin is a QGIS plugin designed to help users process time series data from weather sensors provided by the Regional Agency for Environmental Protection of Lombardy ([ARPA Lombardia](https://www.arpalombardia.it/Pages/Meteorologia/Osservazioni-e-Dati/Dati-in-tempo-reale.aspx)). With this plugin, you can easily import ARPA weather sensor data and process it using a variety of algorithms and methods available in QGIS.
 
 > ⚠️ NOTE: Internet connection is required to request the data from the Open Data Lombardia portal.
